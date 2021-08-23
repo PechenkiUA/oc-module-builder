@@ -1,4 +1,4 @@
-# Моdule Buider for opencart [2.x-3]
+# Моdule Builder for opencart [2.x-3]
 ##CLI - To reassemble the module
 >Add to root opencart folder.
 ---
